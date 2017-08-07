@@ -1,0 +1,10 @@
+
+data_forecast.xlsx
+
+*.xlsx#
+
+*.data_forecast_w17#
+
+.ipynb_checkpoints/glovo-orders-average-checkpoint.ipynb
+
+.ipynb_checkpoints/glovo-orders-prediction-checkpoint.ipynb
